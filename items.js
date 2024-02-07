@@ -3,7 +3,7 @@
 let items = [
     {
         id: 1,
-        image: 'Item-Images/1.jpeg',
+        image: '1.jpeg',
         rating: {
             star: 4.6,
             count: 1.3
@@ -19,7 +19,7 @@ let items = [
     },
     {
         id: 2,
-        image: 'Item-Images/2.jpg',
+        image: '2.jpg',
         rating: {
             star: 4.4,
             count: 1.2
@@ -35,7 +35,7 @@ let items = [
     },
     {
         id: 3,
-        image: 'Item-Images/3.jpg',
+        image: '3.jpg',
         rating: {
             star: 4.4,
             count: 6.7
@@ -51,7 +51,7 @@ let items = [
     },
     {
         id: 4,
-        image: 'Item-Images/4.jpg',
+        image: '4.jpg',
         rating: {
             star: 4.2,
             count: 5.9
@@ -68,7 +68,7 @@ let items = [
 
 
         id: 5,
-        image: 'Item-Images/5.jpeg',
+        image: '5.jpeg',
         rating: {
             star: 4.1,
             count: 29.2
@@ -100,7 +100,7 @@ let items = [
     },
     {
         id: 7,
-        image: 'Item-Images/7.jpeg',
+        image: '7.jpeg',
         rating: {
             star: 3.8,
             count: 1.7
@@ -116,7 +116,7 @@ let items = [
     },
     {
         id: 8,
-        image: 'Item-Images/8.jpeg',
+        image: '8.jpeg',
         rating: {
             star: 4,
             count: 2.7
@@ -132,7 +132,7 @@ let items = [
     },
     {
         id: 9,
-        image: 'Item-Images/9.jpeg',
+        image: '9.jpeg',
         rating: {
             star: 4.2,
             count: 4.8
@@ -148,7 +148,7 @@ let items = [
     },
     {
         id: 10,
-        image: 'Item-Images/10.jpeg',
+        image: '10.jpeg',
         rating: {
             star: 4.1,
             count: 3.5
@@ -164,7 +164,7 @@ let items = [
     },
     {
         id: 11,
-        image: 'Item-Images/11.jpeg',
+        image: '11.jpeg',
         rating: {
             star: 4.2,
             count: 1
@@ -180,7 +180,7 @@ let items = [
     },
     {
         id: 12,
-        image: 'Item-Images/12.jpeg',
+        image: '12.jpeg',
         rating: {
             star: 4.4,
             count: 7.8
@@ -202,7 +202,7 @@ let items = [
 let items_men = [
     {
         id: 4,
-        image: 'Item-Images/4.jpg',
+        image: '4.jpg',
         rating: {
             star: 4.2,
             count: 5.9
@@ -218,7 +218,7 @@ let items_men = [
     },
     {
         id: 5,
-        image: 'Item-Images/5.jpeg',
+        image: '5.jpeg',
         rating: {
             star: 4.1,
             count: 29.2
@@ -234,7 +234,7 @@ let items_men = [
     },
     {
         id: 7,
-        image: 'Item-Images/7.jpeg',
+        image: '7.jpeg',
         rating: {
             star: 3.8,
             count: 1.7
@@ -250,7 +250,7 @@ let items_men = [
     },
     {
         id: 10,
-        image: 'Item-Images/10.jpeg',
+        image: '10.jpeg',
         rating: {
             star: 4.1,
             count: 3.5
@@ -266,7 +266,7 @@ let items_men = [
     },
     {
         id: 12,
-        image: 'Item-Images/12.jpeg',
+        image: '12.jpeg',
         rating: {
             star: 4.4,
             count: 7.8
@@ -287,7 +287,7 @@ let items_men = [
 let items_women = [
     {
         id: 1,
-        image: 'Item-Images/1.jpeg',
+        image: 'I1.jpeg',
         rating: {
             star: 4.6,
             count: 1.3
@@ -303,7 +303,7 @@ let items_women = [
     },
     {
         id: 2,
-        image: 'Item-Images/2.jpg',
+        image: '2.jpg',
         rating: {
             star: 4.4,
             count: 1.2
@@ -319,7 +319,7 @@ let items_women = [
     },
     {
         id: 3,
-        image: 'Item-Images/3.jpg',
+        image: '3.jpg',
         rating: {
             star: 4.4,
             count: 6.7
@@ -335,7 +335,7 @@ let items_women = [
     },
     {
         id: 6,
-        image: 'Item-Images/6.jpeg',
+        image: '6.jpeg',
         rating: {
             star: 3.6,
             count: 5.1
@@ -351,7 +351,7 @@ let items_women = [
     },
     {
         id: 8,
-        image: 'Item-Images/8.jpeg',
+        image: '8.jpeg',
         rating: {
             star: 4,
             count: 2.7
@@ -367,7 +367,7 @@ let items_women = [
     },
     {
         id: 9,
-        image: 'Item-Images/9.jpeg',
+        image: '9.jpeg',
         rating: {
             star: 4.2,
             count: 4.8
@@ -383,7 +383,7 @@ let items_women = [
     },
     {
         id: 11,
-        image: 'Item-Images/11.jpeg',
+        image: '11.jpeg',
         rating: {
             star: 4.2,
             count: 1
@@ -404,7 +404,7 @@ let items_women = [
 let items_beauty = [
     {
         id: 1,
-        image: 'Item-Images/1.jpeg',
+        image: '1.jpeg',
         rating: {
             star: 4.6,
             count: 1.3
@@ -420,7 +420,7 @@ let items_beauty = [
     },
     {
         id: 9,
-        image: 'Item-Images/9.jpeg',
+        image: '9.jpeg',
         rating: {
             star: 4.2,
             count: 4.8
@@ -436,7 +436,7 @@ let items_beauty = [
     },
     {
         id: 11,
-        image: 'Item-Images/11.jpeg',
+        image: '11.jpeg',
         rating: {
             star: 4.2,
             count: 1
@@ -455,7 +455,7 @@ let items_beauty = [
 let items_home = [
     {
         id: 4,
-        image: 'Item-Images/4.jpg',
+        image: '4.jpg',
         rating: {
             star: 4.2,
             count: 5.9
@@ -471,7 +471,7 @@ let items_home = [
     },
     {
         id: 12,
-        image: 'Item-Images/12.jpeg',
+        image: '12.jpeg',
         rating: {
             star: 4.4,
             count: 7.8
