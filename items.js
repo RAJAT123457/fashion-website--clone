@@ -84,7 +84,7 @@ let items = [
     },
     {
         id: 6,
-        image: 'Item-Images/6.jpeg',
+        image: '6.jpeg',
         rating: {
             star: 3.6,
             count: 5.1
